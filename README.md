@@ -1,4 +1,5 @@
-# vuetest
+# vuex-shop
+#### vuex实现的购物车功能
 
 > A Vue.js project
 
