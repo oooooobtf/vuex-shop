@@ -1,7 +1,9 @@
 # vuex-shop
 #### vuex实现的购物车功能
 
-> A Vue.js project
+> 整个页面由三个组件构成，商品列表模块，购物车模块，结算模块
+
+> state存放商品，getters取得数据，actions发送mutations请求，mutations回调函数改变行为
 
 ## Build Setup
 
